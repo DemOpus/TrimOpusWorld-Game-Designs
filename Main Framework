@@ -1,0 +1,25 @@
+
+// Main Framework
+
+Files
+-> auth
+-> map
+-> character
+-> entity
+-> tile
+-> cache
+-> packet
+-> animation
+-> action
+-> database
+-> item
+-> class
+-> skill
+-> skin
+-> equipment
+-> currency
+-> calculation
+-> AI-framework
+
+
+// Copyrights 2017 Cynoser
